@@ -1,6 +1,4 @@
 ERC20 with sanctions
 Add the ability for a centralized authority to prevent sanctioned addresses from sending or receiving the token.
 
-- Hint: what is the appropriate data structure to store this blacklist?
-- Hint: make sure only the centralized authority can control this list!
-- Hint: study the function here: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol#L358 
+![Screenshot 2024-01-22 235939](https://github.com/Danishlynx/ERC20_With_Sanctions/assets/69537135/45651fed-cd38-4504-ad90-b442a6a274af)
