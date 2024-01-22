@@ -1,4 +1,4 @@
-# Module 1 - ERC20 with sanctions
+ERC20 with sanctions
 Add the ability for a centralized authority to prevent sanctioned addresses from sending or receiving the token.
 
 - Hint: what is the appropriate data structure to store this blacklist?
